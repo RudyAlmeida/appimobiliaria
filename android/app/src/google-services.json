@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "113301151213",
+    "firebase_url": "https://cassypimentaimoveis.firebaseio.com",
+    "project_id": "cassypimentaimoveis",
+    "storage_bucket": "cassypimentaimoveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113301151213:android:ede8232df00e21f680dbe4",
+        "android_client_info": {
+          "package_name": "br.com.almeida.cassy_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113301151213-h85e7rqmt8q204ipkrskq5fu9f42q92b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.almeida.cassy_admin",
+            "certificate_hash": "c911cc5819f3033b0867bd61add87ce0796168f8"
+          }
+        },
+        {
+          "client_id": "113301151213-5n59a3ckhul427gv3918nfnost4s6405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAWM4u6JrelXgQOBjc-c4SGwMuqSfMNxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113301151213-5n59a3ckhul427gv3918nfnost4s6405.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113301151213:android:a8d32aca05fed05e80dbe4",
+        "android_client_info": {
+          "package_name": "br.com.almeida.imobiliaria_gigante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113301151213-jbejvm322usibjilp6hhmmd4rvru0901.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.almeida.imobiliaria_gigante",
+            "certificate_hash": "c911cc5819f3033b0867bd61add87ce0796168f8"
+          }
+        },
+        {
+          "client_id": "113301151213-5n59a3ckhul427gv3918nfnost4s6405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAWM4u6JrelXgQOBjc-c4SGwMuqSfMNxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113301151213-5n59a3ckhul427gv3918nfnost4s6405.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113301151213:android:089c42b283a0e28080dbe4",
+        "android_client_info": {
+          "package_name": "br.com.almeida.imobiliariaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113301151213-bu32fiirf66ha5kqvct9qkkcdive96g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.almeida.imobiliariaadmin",
+            "certificate_hash": "c911cc5819f3033b0867bd61add87ce0796168f8"
+          }
+        },
+        {
+          "client_id": "113301151213-5n59a3ckhul427gv3918nfnost4s6405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAWM4u6JrelXgQOBjc-c4SGwMuqSfMNxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113301151213-5n59a3ckhul427gv3918nfnost4s6405.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
